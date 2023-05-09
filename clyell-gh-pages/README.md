@@ -31,11 +31,11 @@ It's just one more [jekyll](https://github.com/jekyll/jekyll) theme. Maybe it's 
 
 ~~~ yml
 # Site settings
-title: "gjuniioor"
+title: "nerdskill-git-final"
 bye_message: "Thx!"
-baseurl: "/clyell/"
-url: "https://gjuniioor.github.io"
-disqus: gjuniioor
+baseurl: "/git-final/"
+url: "https://nerdskill.github.io"
+disqus: nerdskill
 
 # Header settings
 nick: "gjuniioor"
